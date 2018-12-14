@@ -1,0 +1,5 @@
+#typeof
+
+- number
+  - infinty
+  - NaN

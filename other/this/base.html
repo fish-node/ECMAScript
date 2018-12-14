@@ -1,0 +1,13 @@
+<html>
+    <head></head>
+    <body>
+        <script>
+          var a = 1
+          function foo(){
+              console.log(this.a)
+              console.log(this === window)
+          }
+          foo()
+        </script>
+    </body>
+</html>
