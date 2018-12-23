@@ -1,12 +1,4 @@
-#深入理解JavaScript ?Object-orient Programming?
-
-不包含异步、二进制数组相关内容
-
-每一个话题具体内容参考相关目录
-每周1-5整理知识
-周末出视频
-下个1-5转化为英文
-
+# 深入理解JavaScript 
 ## 前言
 foreword
 
